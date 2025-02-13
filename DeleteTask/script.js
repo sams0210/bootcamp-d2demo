@@ -13,6 +13,7 @@ function addTask() {
 
     // Create a Delete button
     
+    taskList.removeChild(li);
     
     // Add event listener to delete the task
     
